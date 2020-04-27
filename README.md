@@ -54,6 +54,15 @@ Have a look at the documentation site: https://fravoll.github.io/solidity-patter
 | | Mutex | Ventana Token |
 | | Balance Limit | CATToken |
 
+
+* Restricting Access - https://medium.com/heartbankstudio/smart-contract-design-patterns-8b7ca8b80dfb
+* Fail Early and Fail Loud - https://medium.com/heartbankstudio/smart-contract-design-patterns-8b7ca8b80dfb
+* Circuit Braker - https://medium.com/heartbankstudio/smart-contract-design-patterns-8b7ca8b80dfb
+* Pull Over Push Payments - https://medium.com/heartbankstudio/smart-contract-design-patterns-8b7ca8b80dfb
+* State Machine - https://medium.com/heartbankstudio/smart-contract-design-patterns-8b7ca8b80dfb
+
+
+
 ## Disclaimer
 
 This repository is not under active development anymore and some (if not most) sections might be outdated. There is no liability for any damages caused by the use of one of these patterns.
