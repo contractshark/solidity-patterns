@@ -7,6 +7,8 @@ Have a look at the documentation site: https://fravoll.github.io/solidity-patter
 
 ## Contents
 
+* **Creational Patterns**
+  * [**Contract Self Destruction**](docs/contract_self_destruction.md): Used for terminating a contract, which means removing it forever from the blockchain. 
 * **Behavioral Patterns**
   * [**Guard Check**](docs/guard_check.md): Ensure that the behavior of a smart contract and its input parameters are as expected.
   * [**State Machine**](docs/state_machine.md): Enable a contract to go through different stages with different corresponding functionality exposed.
